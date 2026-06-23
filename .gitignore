@@ -1,0 +1,23 @@
+# Java
+*.class
+
+# Maven / Gradle
+target/
+build/
+.gradle/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notes apps
+.obsidian/
